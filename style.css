@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body{
+    
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal
+    
+}
+.header{
+    
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.imge{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+.Imagen{
+    height: 300px;
+    width: 600px;
+}
+button{
+    border-radius: 5px;
+}
+.cat{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.header2{
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.header3{
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.header4{
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.perrito{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.Tibu{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
