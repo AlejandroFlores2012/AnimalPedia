@@ -6,13 +6,14 @@ body{
     font-style: normal
     
 }
-.header{
-    
-    padding: 0px 200px;
+
+.header{ 
+    padding: 0px 200px; 
     align-items: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; 
 }
+
 .imge{
     align-items: center;
     display: flex;
@@ -54,10 +55,6 @@ button{
     display: flex;
     justify-content: center;
 }
-.Tibu{
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
+
 
 
