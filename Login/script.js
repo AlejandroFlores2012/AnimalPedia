@@ -1,8 +1,9 @@
 // script.js
 // "Base de datos" simulada
 const database = [
-    { username: "usuario1", password: "1234" },
-    { username: "usuario2", password: "abcd" }
+    { username: "Host1", password: "6VPm8nvh" },
+    { username: "AnimalPedia1", password: "AnPed2" },
+    { username: "AminalPedia2", password: "2355" },
 ];
 
 function login() {
