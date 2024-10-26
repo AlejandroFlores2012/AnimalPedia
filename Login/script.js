@@ -3,7 +3,7 @@
 const database = [
     { username: "Host1", password: "6VPm8nvh" },
     { username: "AnimalPedia1", password: "AnPed2" },
-    { username: "AminalPedia2", password: "2355" }
+    { username: "AnimalPedia2", password: "2355" }
 ];
 
 function login() {
